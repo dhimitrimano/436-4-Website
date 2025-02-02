@@ -1,0 +1,8 @@
+Dimpsey Robert  myid=65764 phone=4528769876 office=trulyhouse
+Vollmann William myid=87643 phone=8769870987 age=57
+Trevor Billy myid=7638 age=81 gender=M
+Munro Alice myid=9876 age=65 gender=F
+Dimpsey Pearl myid=98776 phone=4528769876 office=none
+Dewitt Jimmy myid=8876 phone=5558762341 weight=156 iq=120
+Grace Hopper nationality=american military=true gender=f
+Daina Taimina hobby=crochet university=Cornell 
